@@ -5,7 +5,7 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['59161515268', '𝐌𝐞𝐥𝐢  ᷦ×͜×', true],
+  ['13202210662', '𝐗𝐢𝐭  ᷦ×͜×', true],
   ['51914865141', '@𝐀𝐥𝐞.𝐢𝐳𝐧  ᷦ', true],
 ] // Cambia los numeros que quieras
 global.mods = [] 
